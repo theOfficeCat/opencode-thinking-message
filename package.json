@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "opencode TUI plugin that replaces the reasoning header with a rotating \"what is the model doing\" message",
   "type": "module",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "exports": {
     "./tui": {
       "types": "./dist/tui.d.ts",

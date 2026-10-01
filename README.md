@@ -78,4 +78,6 @@ TUI plugins are resolved from the `exports["./tui"]` entry of the package.
 
 ## License
 
-MIT
+Copyright (C) 2026 Raul Gilabert Gamez
+
+GPL-3.0-or-later. See [LICENSE](LICENSE).
